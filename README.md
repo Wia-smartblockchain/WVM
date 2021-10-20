@@ -4,9 +4,9 @@ A virtual machine which allows the model of a single computer to be emulated whi
 This virtual machine allows in particular two principles, the guarantee of the security of the programs running on it (in particular against DDOS for example, like the EVM) and to interpret and compile these programs written in Fidus, the native programming language of the Wia blockchain, allowing the operation of smart-contracts, ricardians-contracts and oracles. It also allows the use of a virtual and parallel memory model offering a kind of decentralized cloud to the nodes of the network.
 
 In the long run, this virtual machine will allow the establishment of a so-called "decentralized internet system, allowing users to create, store and deploy web pages and platforms using resources such as bandwidth, space. hosting and code deployment environments at very low cost.
-
+___________________________________________________________________________________________________________________________________________________________________________
 OPTIVISOR
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-A storage hypervisor provided in the WVM, which is a centrally managed monitoring software program that provides a comprehensive set of storage management and monitoring functions that operates as a transparent virtual layer between consolidated disk pools of the Wia network to improve availability, speed and use.
+
+A hosted storage hypervisor provided in the WVM, which is a centrally managed monitoring software program that provides a comprehensive set of storage management and monitoring functions that operates as a transparent virtual layer between consolidated disk pools of the Wia network to improve availability, speed and use.
 
 This storage hypervisor leverage the combined benefits of multiple disk storage systems, including different and incompatible models, by supplementing their respective capabilities with extensive provisioning, replication, and performance acceleration services.
