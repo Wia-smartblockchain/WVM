@@ -1,0 +1,12 @@
+La virtualisation est une technologie qui vous permet de créer plusieurs environnements 
+simulés ou ressources dédiées à partir d'un seul système physique. Son logiciel, appelé hyperviseur,
+est directement relié au matériel et vous permet de fragmenter ce système unique en plusieurs environnements sécurisés distincts. 
+C'est ce que l'on appelle les machines virtuelles. Ces dernières exploitent la capacité de l'hyperviseur à séparer les ressources du matériel et à les distribuer convenablement.
+--
+--
+--
+Cloud computing
+Le terme « cloud computing » désigne un ensemble de principes et d'approches visant à mettre à la disposition d'utilisateurs qui en font
+la demande, quel que soit le réseau, des ressources de calcul, de réseau et de stockage, ainsi que des services, des plateformes et des applications. 
+Ces ressources d'infrastructure, services et applications proviennent d'un cloud, c'est-à-dire d'un pool de ressources virtuelles orchestrées par des logiciels de
+gestion et d'automatisation et accessibles à la demande via des portails en libre-service. Ces ressources sont dimensionnées automatiquement et allouées de façon dynamique.
