@@ -1,0 +1,90 @@
+Pour vous inscrire au registre, vous faites une courte vidéo de vous-même, déposez un dépôt remboursable de 0,157 ETH (environ 400 $) et trouvez une personne 
+qui est déjà certifiée pour se porter garante pour vous. Votre profil est ensuite ajouté à un registre théoriquement sécurisé et décentralisé sur la blockchain
+(par opposition à vos données vivant sur un serveur Facebook ou LinkedIn). Si d'autres membres de la communauté pensent que vous n'êtes pas réel ou utilisent les outils 
+de reconnaissance faciale des plateformes pour déterminer que vous avez des comptes en double, ils peuvent contester votre profil. Tous les obstacles que vous devez franchir
+, combinés à la surveillance commune continue des comptes, visent à décourager la création de bots ou de faux comptes d'une manière que Facebook ou Twitter ne font pas.
+
+Pour la newsletter de cette semaine, j'ai parlé avec Santiago Siri, le fondateur de la Democracy Earth Foundation et co-créateur de Proof of Humanity, ainsi qu'avec quelques
+experts de la blockchain qui sont plus sceptiques quant à l'objectif de Proof of Humanity de devenir le "réseau social d'Internet". colonne vertébrale." Siri lui-même ne voit
+pas nécessairement Proof of Humanity comme un émetteur définitif d'identifiants Internet, mais plutôt comme une étape vers la sortie de ce qu'il appelle «l'Internet colonial»
+contrôlé par quelques géants de la Big Tech. Voici quelques-uns des principaux problèmes que Siri espère que Proof of Humanity pourra résoudre – et les défis auxquels le projet
+est confronté.
+
+Créer un revenu de base universel
+Le premier et le plus immédiat attrait de Proof of Humanity est peut-être sa composante intégrée de revenu de base universel. Lorsque vous vous inscrivez, 
+vous commencez à accumuler le jeton de crypto-monnaie de la plateforme, appelé UBI. (Clément Lesaege et Federico Ast ont été les principaux fondateurs de Proof of Humanity,
+tandis que Siri a pris l'initiative de créer UBI.) Les utilisateurs reçoivent entre 50 et 100 $ par mois du jeton, dont la valeur fluctue avec le marché plus large de la 
+crypto-monnaie. Siri dit qu'au cours des 11 derniers mois, 14 000 utilisateurs, la plupart en dehors des États-Unis, ont accumulé plus de 50 millions de dollars d'UBI. Il
+est particulièrement ravi de pouvoir fournir l'UBI à quelques-uns des un milliard de personnes dans le monde qui n'ont pas de preuve légale d'identité.. 
+"Nous voulons utiliser la richesse et l'incroyable puissance de la blockchain pour vraiment résoudre des problèmes sociaux comme la pauvreté ou la marginalisation",
+déclare Siri. "C'est un aperçu de l'endroit où nous nous dirigeons potentiellement : vers une sorte d'UBI crypto mondial indépendant de tout État-nation 
+ou banque traditionnelle."
+
+D'où vient tout l'argent ? Siri dit que les mécanismes DeFi (finance décentralisée) ont conduit la collecte de fonds jusqu'à présent, y compris l'extraction
+de liquidités , dans laquelle les investisseurs prêtent de l'argent à un projet et reçoivent un jeton en retour qu'ils espèrent apprécier en valeur. Il comprend
+que s'appuyer sur l'exploitation minière n'est pas une stratégie évolutive en soi : « Le programme d'exploitation minière était là pour aider à démarrer le réseau », dit-il.
+
+L'équipe Proof of Humanity est en train d'explorer d'autres stratégies de financement, notamment la gravure de jetons et le financement de biens publics intégrés
+dans l'écosystème Ethereum. (Buterin parle souvent de l'importance des biens publics et, en septembre, a écrit sur Twitter qu'il soutenait l'idée de renforcer le
+soutien structurel de l'UBI. "Nous devons aller au-delà des dons individuels et parvenir à un engagement persistant par *mécanismes*", il a écrit .)
+
+La valeur de l'UBI de Proof of Humanity augmente et diminue également avec le marché plus large d'Ethereum : dans le sillage du marché baissier actuel de la 
+crypto-monnaie, le prix de l'UBI est inférieur de moitié à ce qu'il était il y a à peine un mois (maintenant environ 7 cents chacun). Des frais de transaction extrêmement
+élevés - parfois supérieurs à la valeur d'un mois d'UBI - rendent également difficile pour les utilisateurs d'UBI de retirer de l'argent.
+
+Siri dit qu'il ne s'inquiète pas de la dépendance d'UBI à ces forces plus importantes. « J'ai vécu plusieurs cycles d'ours. La meilleure chose à faire pendant 
+les corrections est de se concentrer simplement sur la construction et le développement de tout ce qui est nécessaire ensuite pour le projet », dit-il.
+
+Arrêter la propagation des bots et de la désinformation sur les réseaux sociaux
+La deuxième promesse de Proof of Humanity est qu'elle pourrait ouvrir la porte à des plateformes de médias sociaux plus saines. Les plateformes 
+dominantes comme Facebook et Twitter regorgent de bots et de campagnes de désinformation. Bien qu'ils aient fait de nombreux efforts pour réprimer 
+les comportements nocifs, leurs incitations sous-jacentes à maximiser les utilisateurs, l'engagement et les profits signifient qu'ils sont engagés 
+dans des jeux sans fin de whack-a-mole . Siri dit que si une plate-forme de médias sociaux était connectée à Proof of Humanity afin que tout le monde 
+sur le site doive prouver qu'il était un humain, la capacité des fermes de robots à produire de faux comptes serait considérablement réduite.
+
+Proof of Humanity fournit également une alternative aux Captchas, qui deviennent de plus en plus onéreux à mesure que l'IA devient plus intelligente. 
+"L'IA en apprend de plus en plus sur la façon dont nous regardons le monde. Trouver une sorte de mécanisme limpide qui peut aider à signaler si vous 
+interagissez ou non avec un humain va être très important pour les années à venir », dit-il.
+
+Et la technologie pourrait également jouer un rôle dans la drop culture , le phénomène dans lequel les marchandises - des baskets aux billets de 
+concert en passant par les NFT - sont libérées en grappes à durée limitée, ce qui conduit les scalpers à déployer des bots pour acheter des articles 
+plus rapidement que les humains, ce qui peut entraîner une flambée des prix. Théoriquement, associer Proof of Humanity à des plateformes de vente 
+pourrait garantir que seuls les humains pourraient participer à ces ventes.
+
+Rendre le vote dans les DAO plus juste
+La Democracy Earth Foundation est depuis longtemps impliquée dans la tentative de créer des efforts de vote plus équitables : ils ont créé la
+plateforme de vote Sovereign en 2017, qui a été déployée par divers organismes de vote à travers le monde, y compris par l' État du Colorado.
+Bien que l'utilisation de la blockchain pour voter aux élections générales américaines soit encore lointaine, la fondation s'est concentrée sur
+le vote dans les DAO (organisations autonomes décentralisées), dont l'utilisation a explosé au cours de la dernière année. Siri et Buterin ont 
+tous deux exprimé leurs inquiétudes quant au fait que les processus de vote pour les DAO sont biaisés en faveur des riches, car le pouvoir de vote correspond généralement au nombre de jetons qu'ils contrôlent.
+
+Siri dit qu'il travaille avec les DAO pour mettre en œuvre des systèmes une personne, un vote. Il espère également que Proof of Humanity 
+développera des protocoles de vote secrets avec des "NFT à connaissance zéro", qui garantissent la légitimité d'un vote tout en gardant la personne qui l'a exprimé privé.
+
+Mais Ari Juels, professeur d'informatique à Cornell Tech, est sceptique quant au fait que le vote sur la blockchain soit prêt pour les 
+heures de grande écoute. « Les chaînes de blocs sont merveilleuses pour beaucoup de choses, mais leur transparence ne s'harmonise pas bien avec le
+vote sécurisé. C'est pourquoi nous avons des élections au scrutin secret dans la plupart des démocraties », dit-il. « Et même si vous développez des 
+systèmes de vote sécurisés, vous avez toujours le problème de la corruption ou de la coercition. Il est difficile de construire un système qui empêche 
+définitivement l'achat de votes . ”
+
+Mais créer une "preuve d'humanité" universelle reste un énorme défi
+Kate Sills, une ingénieure en logiciel qui travaillait auparavant à la blockchain Agoric, est préoccupée par plusieurs aspects de Proof of Humanity.
+Elle soutient qu'il serait assez facile pour les gens de soumettre plusieurs profils en changeant leur pilosité faciale ou leur maquillage, et soulève 
+également la possibilité que des personnes vulnérables soient expulsées du registre par des efforts de groupe concertés. (Sur Reddit, par exemple, des 
+groupes nationalistes zélés réussissent souvent à faire bannir des modérateurs en signalant en masse des infractions inventées.) préjugés et le genre 
+de persécution que nous voyons déjà dans le monde réel », dit-elle.
+
+Siri, en réponse, note qu'en ce qui concerne les profils douteux, il y a "jusqu'à 7 tours d'appel où le perdant doit payer le prix à chaque tour successif".
+Il est également conscient que les humains examinant les visages d'autres humains ne sont pas un système parfait et que cela pourrait conduire à des erreurs.
+Mais il dit que la mise en œuvre de plus de technologie, y compris l'apprentissage automatique dans le processus, pose des risques beaucoup plus importants. 
+"Si je sors et que je commence à scanner les yeux des gens, je ne peux absolument pas garantir qu'une société de capital-risque qui contrôle 80 millions de 
+faux yeux ne puisse pas venir contrôler l'ensemble du réseau sans le divulguer", dit-il. "J'aimerais que nous ayons un meilleur compromis que cela, mais nous
+devons comparer les visages des gens afin que n'importe qui puisse vérifier les profils. Cela donne aux gens la garantie qu'il s'agit d'un registre décentralisé.
+
+Et pour le moment, Siri ne vise pas à ce que Proof of Humanity devienne un registre définitif comme le matériel promotionnel de l'application semble se vanter.
+"Je ne vois pas Proof of Humanity comme un protocole pour les gouverner tous", dit-il. "Nous pourrions avoir plusieurs protocoles faisant l'identité humaine à 
+des fins différentes."
+
+En fin de compte, il considère Proof of Humanity comme une pièce du puzzle vers la création de systèmes plus robustes et équitables sur la blockchain. "Au cours 
+des 10 dernières années, nous avons vu principalement de l'innovation financière sur ces réseaux", dit-il. "Pour créer des médias sociaux 3.0 avec toutes sortes 
+de mécanismes de protection sociale, Proof of Humanity n'est qu'un pas dans cette direction."
