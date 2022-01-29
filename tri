@@ -1,0 +1,5 @@
+Le triangle de Zooko est un trilemme de trois propriétés que certaines personnes considèrent souhaitable pour les noms des participants à un protocole réseau : [1]
+
+Humainement significatif : Des noms significatifs et mémorables (faible entropie) sont fournis aux utilisateurs.
+Sécurisé : la quantité de dommages qu'une entité malveillante peut infliger au système doit être aussi faible que possible.
+Décentralisé : les noms correspondent correctement à leurs entités respectives sans l'utilisation d'une autorité ou d'un service central.
