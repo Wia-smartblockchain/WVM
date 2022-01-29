@@ -10,3 +10,45 @@ Le terme « cloud computing » désigne un ensemble de principes et d'approches 
 la demande, quel que soit le réseau, des ressources de calcul, de réseau et de stockage, ainsi que des services, des plateformes et des applications. 
 Ces ressources d'infrastructure, services et applications proviennent d'un cloud, c'est-à-dire d'un pool de ressources virtuelles orchestrées par des logiciels de
 gestion et d'automatisation et accessibles à la demande via des portails en libre-service. Ces ressources sont dimensionnées automatiquement et allouées de façon dynamique.
+--
+--
+--
+Présentation
+Il est facile de confondre virtualisation et cloud computing, car il s'agit dans les deux cas d'une création d'environnements utiles à partir de ressources abstraites.
+La virtualisation est une technologie qui vous permet de créer plusieurs environnements simulés ou ressources spécialisées à partir d'un seul système physique. 
+Les clouds sont des environnements qui dissocient, regroupent et partagent des ressources évolutives sur un réseau. Pour faire simple, la virtualisation est une technologie
+alors que le cloud est un environnement.
+Un cloud s'utilise généralement dans le cadre d'une stratégie de cloud computing, qui consiste à exécuter des charges de travail dans ce système. 
+
+Une infrastructure cloud peut intégrer différents logiciels bare metal, de virtualisation ou de conteneurs qui permettent de dissocier, regrouper et partager des 
+ressources évolutives au sein d'un réseau pour créer un cloud. Le cloud computing repose sur un système d'exploitation stable (tel que Linux®). C'est cette couche qui 
+confère aux utilisateurs leur indépendance entre les différents environnements privés, publics et hybrides.
+
+Si vous disposez d'un accès à l'intranet, à Internet ou aux deux, la virtualisation est l'une des options qui permettent de créer des clouds. 
+
+Dans le cadre de la virtualisation, un logiciel appelé hyperviseur est installé sur le matériel physique. Il dissocie les ressources de la machine
+qui sont ensuite mises à la disposition d'environnements virtuels, les machines virtuelles. La puissance de traitement des données brutes, le stockage ou les applications
+cloud qui renferment le code d'exécution et les éléments requis pour déployer le système font partie de ces ressources.
+
+À ce stade, on ne parle pas encore de cloud, mais simplement de virtualisation. 
+
+Pour devenir des clouds, les ressources virtuelles doivent être allouées dans des pools centralisés. Avec l'ajout d'une couche logicielle de gestion, les administrateurs 
+peuvent contrôler l'infrastructure, les plateformes, les applications et les données qui seront utilisées dans l'environnement cloud. Et lorsque la couche finale 
+d'automatisation est ajoutée pour remplacer ou limiter les interactions humaines à l'aide d'instructions et de processus reproductibles, on obtient le composant 
+libre-service du cloud.
+
+Pour créer un cloud, vous devez mettre en place un système informatique qui répond aux critères suivants :
+
+D'autres ordinateurs peuvent y accéder par l'intermédiaire d'un réseau.
+Il contient un référentiel de ressources informatiques.
+Il peut être approvisionné et mis à l'échelle rapidement.
+Un certain nombre d'atouts, propres aux clouds, permettent de les distinguer clairement de la virtualisation classique : l'accès en libre-service,
+la mise à l'échelle automatisée de l'infrastructure et les pools de ressources dynamiques.
+
+La virtualisation offre ses propres avantages, notamment la consolidation du serveur et l'amélioration de l'utilisation du matériel, qui réduisent les besoins
+en matière d'alimentation, d'espace et de refroidissement dans un datacenter. Les machines virtuelles sont également des environnements isolés. Elles peuvent donc être utilisées
+pour tester de nouvelles applications ou mettre en place un environnement de production.
+
+Comparaison concrète
+Avec la virtualisation, une ressource peut jouer le rôle de plusieurs ressources, tandis qu'avec le cloud computing, différents services (via un cloud privé) ou
+entreprises (via un cloud public) ont accès à un même ensemble de ressources qui sont provisionnées de manière automatique.
