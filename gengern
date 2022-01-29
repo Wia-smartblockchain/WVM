@@ -52,3 +52,9 @@ pour tester de nouvelles applications ou mettre en place un environnement de pro
 Comparaison concrète
 Avec la virtualisation, une ressource peut jouer le rôle de plusieurs ressources, tandis qu'avec le cloud computing, différents services (via un cloud privé) ou
 entreprises (via un cloud public) ont accès à un même ensemble de ressources qui sont provisionnées de manière automatique.
+--
+--
+--
+Automatisation métier
+Il s'agit de l'alignement de la gestion des processus métier, de la gestion des règles métier
+et de l'optimisation métier sur le développement d'applications modernes, en vue de répondre à l'évolution du marché
