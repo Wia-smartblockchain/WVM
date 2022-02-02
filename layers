@@ -3,4 +3,4 @@ networklayer: p2p ntw,verif mechanism,broadcast protocol
 consensuslayer:PoR
 contractlayer:sc,script coding,incentive mech
 servicelayer:Baas,Iaas
-applicationlayer:law,financial mkt,banking,insurance,numerical idt
+applicationlayer:Useinterface; law,financial mkt,banking,insurance,numerical idt
