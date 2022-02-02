@@ -1,0 +1,341 @@
+THIRD-GENERATION BLOCKCHAIN
+Blockchain has been able to overcome its major problem
+called Scaling in the process of evolution. Blockchain 3.0
+expands numerous applications not involving the currency,
+cash, or ﬁnancial sector. It brings us smart cities with smart
+governance; smart resource utilization by smart citizens
+bringing us a smart economy. Blockchain’s integration with
+the Internet of Things is being developed to implement smart
+property transactions and data payment without third party
+involvement. Such incorporation can also set up a market
+for power from machine to machine and handle electronic
+medical records information.
+Blockchain 3.0 is beneﬁcial in digital identity where
+unbanked customers can maintain their identities so that
+banks can complete their formalities such as Know YouCustomer and access bank accounts. In this internet era,
+many of the transactions are done between unknown people.
+Saving data in the block and carrying transactions through
+the blockchain network would bring trustworthy customers,
+which leads to a decrease in fraud rating [45].
+4) MINING
+Mining can be deﬁned as adding blocks to the openly dis-
+tributed ledger, which is called the blockchain. People who
+mine Bitcoin get rewards for more mining. Miners present in
+each node mine the blocks and sometimes get paid a reward
+for mining.
+E. NODES OF BLOCKCHAIN
+A node in the blockchain can be deﬁned as the device belong-
+ing to the blockchain network. The type of node is classiﬁed
+based upon the task done by it. There are different kinds of
+nodes. They are:
+1. Mining Nodes: Mining nodes always produce blocks for
+the blockchain. These nodes just verify whether the block
+can be added to the list in the process called mining.
+Mining nodes are not responsible for maintaining blocks;
+they only create blocks and add them to the chain. Added
+blocks are published over the network where full nodes
+validate them and add them to the blockchain.
+2. Full or Super Nodes: Full node control maintains and
+sends the copies of blocks to all the network nodes. Their
+job is to validate transactions until the genesis block
+during publishing. After validation, the data is sent to
+all other nodes in the network to ensure the blockchains
+trustworthiness. When are there are more nodes with a
+more decentralized network, it would become tough to
+hack it. A Node can be called a Super Node depending
+upon the count of exchange of transactions produced from
+a full node. Super Nodes are always active and connect the
+remaining full nodes and make them appear all over the
+network.
+3. Light Nodes: Light nodes exhibit similar behavior as full
+nodes, but they contain only a portion of the whole block.
+They contain only the previous transaction blocker and
+validate the blockchain and inform the network’s remain-
+ing nodes. Light nodes are connected to the parent node,
+i.e., Full node, and are not as powerful. Whenever a full
+node is hacked and is holding the corrupted data, the light
+node can capture and dismiss that blockchain as false and
+give the complete node information to a blockchain that
+should be maintaining. As these don’t occupy much data
+space, they help make the network more decentralized and
+travel long distances at a lower cost than full nodes.
+F. LAYERS OF BLOCKCHAIN
+Blockchain doesn’t contain any hierarchical structure. Six
+layers can explain it: data, network, consensus, contract, ser-
+vice, and application, as shown in ﬁgure 1. Data and Network
+layers gather data and validate it. In the consensus layer, con-
+FIGURE 1. Layers of blockchain.
+TABLE 4. Given Components Present in Each Layer of Blockchain.
+sensus algorithms are involved for veriﬁcation [45]. Smart
+contracts are used in the contract layer to implement trust.
+The services and Application layers implement blockchain
+activities. In table 4, we mentioned the components present
+in each layer of blockchain. In the data layer, we have Data
+block, timestamp, Merkle root tree, hashing. In the network
+layer, peer-to-peer network, veriﬁcation mechanism, broad
+protocols are the components. The consensus layer contains
+different consensus algorithms like Proof of Work, Proof
+of Stake, Byzantine Fault algorithms, etc. In the contract
+layer, we have smart contracts, incentive mechanisms, script
+coding. In the service layer, we have Ethereum, Hyperledger
+Fabric, IBM Azure, etc.
+G. HASHING
+Hashing can be deﬁned in simple terms as identifying a
+speciﬁc object from a set of similar objects. A large amount
+of data is converted into a hash key using hash functions.
+The value obtained by using a hash function is stored in the
+data structure called a hash table. The hash function is always
+used to map a data set that falls into a hash table. The value
+obtained is called hash value or hash code [10].
+H. SMART CONTRACTS
+In 1994, Nick Szabo initiated smart contracts in the form of
+automated transaction protocol. The concept of smart con-
+tracts introduced earlier than blockchain technology. A smart
+contract can be deﬁned in digital form as a series of com-
+mitments [69]. The relationship between the parties is being
+built by rules that build trust between the parties who do
+not know each other. In a blockchain, Smart Contracts are
+deﬁned as a program written in programmable languages that
+205196 VOLUME 8, 2020
+CH. V. N. U. B. Murthy et al.: Blockchain Based Cloud Computing: Architecture and Research Challenges
+TABLE 5. Performance Analysis Comparison Between Bitcoin and
+Ethereum.
+run in a container. The data present in the block will give be
+executed within the blockchain, which offers trustworthiness
+and uniqueness. As the data of smart contracts is present in the
+blockchain, the data is tamper-proof and anti-counterfeiting.
+The smart contract enables self-execution when a speciﬁc
+condition is met on all the nodes present in the network
+[43]. It also helps the parties predict the outcomes as the
+contract execution depends on the code available on a public
+network, and they are veriﬁable as they are already signed
+[45]. Smart contracts can maintain smart asserts and assert
+transactions. They are also useful during loans, mortgages,
+agreements between business individuals. Some research
+offers the results that smart contracts can have the ability to
+evaluate effectiveness, availability, and scalability. TDD (Test
+Driven Development) and BDD (Behavior Driven Develop-
+ment) evaluate smart contracts’ accuracy. Ethereum is the
+best example which is building smart contracts [34].
+I. DIGITAL SIGNATU RES
+A digital signature can be deﬁned as digitally signed data sent
+from one-to-one or one-to-many, ensuring no data loss. Every
+client will have a private key and a public key. If a client wants
+to send any data, they must generate the hash value from
+the transaction data and then use their private key to encrypt
+the hash value. This process is called ‘digital signing,’ and
+the stage is called ‘signing.’ The digitally signed transactions
+are distributed throughout the network to nodes present. The
+payment information received will be decrypted using the
+public key of the recipient [20]. The decrypted hash value is
+checked by comparing it with the hash value obtained from
+the sender’s data. This phase is called the veriﬁcation phase.
+Elliptic Curve Digital Signature Algorithm (ECDSA) is used
+for veriﬁcation in the blockchain [60].
+J. PERFORMANCE ANALYSIS OF B LOCKCHAIN
+PLATFORMS
+1) PERFORMANCE ANALYSIS COMPARISON BETWEEN
+BITCOIN AND ETHEREUM
+In table 5, the comparison between the blockchain platforms
+called Bitcoin and Ethereum is shown. We have considered
+Block size, Block time, number of transactions, and difﬁculty
+creating the block [62].
+Block Size: the average size of Bitcoin is 1 MB, and the
+Ethereum block size varies from 2000 bytes to 2800 bytes.
+Block Time: The time taken by Bitcoin to create a block
+is 600 seconds to 10 minutes, whereas Ethereum can create
+within 15 seconds
+TABLE 6. Comparison Between Hyperledger Fabric and Ethereum.
+No of Transactions: As Bitcoin takes more time to create
+a block and transact, the number of transactions are signif-
+icantly less than Ethereum, and also Ethereum has become
+popular recently
+Difﬁculty: The difﬁculty in creating the block in Bitcoin
+takes 25 million Terhash per second, and the creation of
+Ethereum will not be much.
+2) COMPARISON BETWEEN HYPERLEDGER FABRIC AND
+ETHEREUM
+In table 6, the comparison between blockchain platforms
+called Hyperledger fabric and Ethereum is shown. We have
+considered parameters called Average throughput, CPU Uti-
+lization, Memory Utilization, Network Utilization, Execution
+time, and Average latency [62].
+K. BLOCKCHAIN APPLICATIONS
+Various blockchain applications are emerging in our day-
+to-day lives. The applications include food supply chain,
+Asset management, Insurance claims, smart car, smartphone,
+e-passport, smart appliances, health care management, and
+personal health record-keeping, and so on.
+1) BLOCKCHAIN IN FINANCE
+Bank activities are intermediaries in the traditional method
+and system transactions. Such payments are prone to errors
+as many intermediary parties maintain the record. This whole
+process takes time and costs more [69]. This problem is sim-
+pliﬁed by introducing blockchain technology that uses a dis-
+tributed public ledger in which miners verify the transactions
+using ‘‘Proof-of-work.’’ The blockchain provides many ser-
+vices to the ﬁnancial world. Some of them are:
+1. 1. Cryptocurrency: Like Bitcoin, many cryptocurrencies
+are introduced to the world that uses blockchain technol-
+ogy. There is no need for a trusted third-party like a bank
+in traditional systems. All payments can be checked and
+unchanged.
+2. 2. Global Payments: Global payments are time-
+consuming because many intermediaries will verify the
+transactions. Blockchain technology is beneﬁcial in these
+situations. It reduces the complexity of verifying by intro-
+ducing the decentralized public ledger. With the peer-to-
+peer network’s help, global payments are made faster,
+veriﬁable, immutable, and safer.
+3. 3. Insurance Claims and Processing: Many fraudulent
+claims are coming up in the insurance sector. These
+VOLUME 8, 2020 205197
+CH. V. N. U. B. Murthy et al.: Blockchain Based Cloud Computing: Architecture and Research Challenges
+TABLE 7. Comparison Between Different Consensus Algorithms.
+defective claims can be avoided in a secure manner using
+Blockchain distributed ledger technology.
+2) BLOCKCHAIN IN HEALTHCARE
+Blockchain is useful for personal health databases and infor-
+mation sharing centers’, is a smart platform for medical
+assistance and an in-depth analysis of the medical challenges.
+The patient’s necessary information, medical history, test
+results, treatment records, drug prescriptions, and diagnostic
+effects are stored in a digital record called The Electronic
+Health Record (EHR). Continuous processing of data on
+cloud servers helps reduce the risk of medical data failure
+and increases the safety and accuracy of medical information.
+Health data and medical records are helpful for clinicians to
+verify the health status of a person. The health database allows
+doctors to understand the condition of the patient quickly. The
+medical database is for extensive data analysis and mining for
+hospitals and medical research centers. The smart contracts in
+the blockchain can help build a smart medical management
+system to form medical contracts and vouchers [45].
+3) BLOCKCHAIN IN DATA PROVENANCE
+Data provenance means data processing management,
+addressing data status, and source. The provenance of data
+is carried out in managing scientiﬁc data, data storage, and
+data assets. Blockchain technology and smart contracts can
+be used to enforce data provenance and to check the asset’s
+integrity and ownership. It also helps with the traceability of
+the product and can also have a multi-stakeholder traceability
+chain. It is also useful for applications such as forensics and
+accountability.
+4) BLOCKCHAIN IN 5G NETWORK
+In 5G networks, Heterogeneous devices and applications
+need to be coordinated to improve energy efﬁciency, net-
+work capacity, and resource accessibility. We could build a
+business model combining blockchain and smart contracts
+to collaborate industrial automation processes and related
+manufacturing equipment to achieve efﬁcient operations.
+In the traditional approach, there is a need for a network
+slice broker for resource allocation facilities [8]. However,
+using blockchain, we could have cloud radio over an optical
+ﬁber network to adopt an anonymous access identiﬁcation
+mechanism to reduce the cost of operating and connecting
+the network and make a joint agreement between the parties.
+5) BLOCKCHAIN IN AVIATION SYSTEMS
+Blockchain will provide digital operator and product provider
+alliances to provide secure decentralized travel services and
+products. Smart contracts can also work together between
+companies and different units within the company.
+6) BLOCKCHAIN IN SUPPLY CHAIN SYSTEMS
+Smart sensors are used in traditional supply chain systems to
+collect information about the supply chain as it is transported.
+Shortly, the number of sensors is expected to rise rapidly.
+Blockchain technology would, therefore, help maintain the
+massive amount of data to be collected and analyzed. The
+information in a distributed network would be robust and
+stable.
+7) BLOCKCHAIN IN SMART HOMES
+Blockchain integration with the Internet of Things will help
+make smart home appliance operations efﬁcient and safe.
+8) BLOCKCHAIN IN SMART PROPERTY
+In the distributed ledger technology, all properties such as
+home, property, cars, and smart devices can be represented.
+Blockchain keeps track of all devices and their operations.
+The records can be shared with legit persons whenever we
+want and can establish contacts between multiple parties [20].
+1. Hard money lending: Hard money lending is very
+common nowadays. The borrower needs to have a property
+to keep it as collateral to lend the money. Borrowers can
+do fraud using illicit assets as collateral or by borrowers if
+they are using dishonest policies as part of the agreement.
+The property can be checked before it is taken as collateral
+by using Blockchain technology, and smart contracts can
+agree. It improves trust, brings transparency and security even
+among strangers.
+2. Cars and Phones: Using authentication keys,
+205198 VOLUME 8, 2020
+CH. V. N. U. B. Murthy et al.: Blockchain Based Cloud Computing: Architecture and Research Challenges
+FIGURE 2. The general architecture of a blockchain.
+personal devices are protected, and cars are accessible only
+to owners using smart keys. Using cryptography, this can be
+kept safe. But if the authentication key is stolen or copied, or
+transferred, there are chances of failure. Using a blockchain
+ledger to replace and replicate lost credentials would
+ﬁx this.
+9) BLOCKCHAIN IN OTHER INDUSTRIES
+Blockchain has numerous applications such as Energy Cyber-
+Physical System, Vehicular Cyber-Physical System in the
+Internet of Things, on the Internet of Battle-ﬁeld Things
+IoBT), Cyber Security, Smart Appliances, Asset Manage-
+ment, Cloud Storage, Intellectual Property, Food Safety,
+Blockchain Notary, Fundraising and transparency, wireless
+networks and Virtualization, Real estate, Identity manage-
+ment like Academic records, Blockchain Music, Birth, Mar-
+riage and Death Certiﬁcates, Passports, Personal Identity and
+Privacy, Voting, etc. Because the blockchain is a decentral-
+ized, stable, open, and scalable network, it will supply future
+energy internet growth.
+10) BLOCKCHAIN ARCHITECTURE
+Blockchain would be like a sequence of blocks that hold the
+entire data belonging to a network in an open public ledger.
+There are a block header and a block body in each block.
+As shown in ﬁgure 2, there are six main components in the
+block header [24]. They are:
+1. Block version: This allows us to follow the set of block
+validation rules.
+2. Merkle tree root hash: The data is encrypted with hash-
+ing algorithms when a transaction occurs, and then it is
+transmitted to each node. Because it could contain thou-
+sands of transaction records in the block of each node,
+the Merkle tree function was used by the blockchain to
+produce a ﬁnal hash value and Merkle tree root.
+3. Timestamp: Produces timestamp with the current time
+as seconds for every block
+4. Difﬁculty target: threshold of a valid hash block.
+5. Nonce: A 4-byte ﬁeld that usually begins at zero and
+increases with each hash calculation
+6. Parent block hash: The value of 256-bit hash points to
+the previous block.
+L. WORKING OF BLOCKCHAIN
+Blockchain technology suggests building blocks containing
+data and is linked to the chain. Blocks are linked together
+through each block containing the previous block header
+[27]. If some data is changed in the previous block, the hash
+key will change, and hence the mismatch of the hash key
+will happen in the chain of blocks. It prevents the data
+from tampering. When a user wants to send some transac-
+tion data to others, that transaction will be represented as
+a block. The block must be broadcast to all other nodes on
+the network to add the blockchain block. Miners of the node
+need to approve the transaction. The miners get the authority
+to approve a block by solving computationally challenging
+problems when the block is created. The block is added
+to the blockchain after authentication, which completes the
+transaction. The next step is to decide which user published
+the next block. The collection of validated blocks is combined
+into a chain that forms a blockchain network [69].
+M. CONSENSUS ALGORITHMS
+When a block is needed to be added into the blockchain, that
+block needs to be veriﬁed as a valid one by all the nodes
+in the network. Consensus algorithms are a kind of protocol
+that maintains the nodes involved in the blockchain network
+to reach a transaction order decision and ﬁlter invalid trans-
+actions. More than one transaction is competing with each
+other to get published to obtain the reward of the transaction.
+To solve the decision problem, consensus algorithms came
+into existence. It is also difﬁcult for the miners to reach a con-
+sensus because, without a central authority, the blockchain
+network is distributed [69
