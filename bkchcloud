@@ -1,0 +1,188 @@
+CHALLENGES IN BLOCKCHAIN
+There is no doubt that Blockchain is a promising emerging
+technology, yet it faces some challenges. These challenges
+sometimes limit the usage of blockchain. There are many
+problems, such as consensus processes, data management,
+storage, chain systems, legislation, governance, etc. [20].
+Some of the main challenges are:
+1) SCALABILITY
+There are several transactions increasing day by day in the
+blockchain, making more data to be stored. All the nodes
+have to store all the transactions for validation. Because of the
+block size restriction and the time taken to create a new block,
+blockchain can only process seven transactions per second.
+The blocks’ actual capacity is deﬁcient, and many small
+transactions could be delayed as miners prefer transactions
+with a higher transaction fee. The problem of scalability is,
+therefore, high [9].
+2) PRIVACY LEAKAGE
+In the blockchain, users’ transactions are considered safe as
+they are made with created addresses instead of real identities.
+In the event of data leakage, users may produce multiple
+addresses. However, the blockchain cannot guarantee trans-
+actional privacy since the value of transactions is publicly
+visible for each public key. The anonymity of the payment
+must be strengthened in the blockchain [29]
+3) REGULATIONS AND LAWS
+The introduction of blockchain has brought many societal
+changes, including in legal and law systems. Blockchain
+triggered a series of legal issues by lagging legal supervision
+in the early stages of development. Proper laws and regu-
+lations can only be strengthened after a quick understand-
+ing of the blockchain characteristics. Through strengthening
+regulatory measures, most countries started to implement
+blockchain [69].
+4) GOVERNANCE
+Blockchain has vast implementation possibilities in terms of
+government and infrastructure and can be expected to trans-
+form government functions and roles. It also helps make less
+complex government organizational structures, the security
+of government data, and transparency of governance and ser-
+vice processes. Since the blockchain is a distributed network
+without a third party’s need, it provides broader possibilities
+TABLE 8. String Searching in Various Digital Libraries Along With Tracking
+Result.
+for policy advancement as it is a critical issue that needs
+immediate resolution [14].
+IV. INTEGRATION OF CLOUD AND BLOCKCHAIN
+A. BLOCKCHAIN SUPPORT FOR CLOUD COMPUTING
+Blockchain integration with cloud computing brings us
+into the next era of data security and service availability.
+Blockchain overcomes most of the research issues of the
+cloud with its characteristics.
+1) INTEROPERABILITY
+In public clouds, internal communication is not allowed, and
+it makes many industries back off from using the cloud.
+When cloud integrated with blockchain, consider the different
+clouds as nodes. Inter-node communication is possible in the
+blockchain. All the nodes present in the same network share
+the data among themselves so that every node contains a copy
+of transactions. It brings us transparency into the network.
+They update every next transaction into the ledger, which
+publishes to all other nodes. In this way, companies can add
+any number of networks and can preserve the accessibility of
+the data, which brings authenticity into the network
+2) DATA ENCRYPTION
+We all know the data is decrypted before storing it in the
+cloud, which questions the data integrity. In the blockchain
+network, all the block data is turned into a hash code using
+cryptographic algorithms, and it generates a hash key for
+each block. Let us consider a scenario in which blockchain
+is used to preserve task scheduling in the cloud. To ensure
+timeliness and permanent data integrity, the control system
+that collects data from the task scheduling produces hash
+code and records it in the blockchain network immediately.
+Because the blockchain has the facility for block discovery
+consensus mechanisms, block data integrity is maintained.
+Each node in the network contains a copy of each transaction
+that provides us with the availability and persistence that
+helps the network withstand potential fault points and attacks.
+While cloud-collected data is reliable, the blockchain nodes
+maximize data availability and data validity by projecting it
+as an on-demand service with no downtime.
+3) SERVICE LEVEL AGREEMENTS
+These agreements in the cloud are favorable to the service
+provider or customer without equal justice. To solve this
+issue, we can make use of blockchain smart contracts. A smart
+VOLUME 8, 2020 205201
+CH. V. N. U. B. Murthy et al.: Blockchain Based Cloud Computing: Architecture and Research Challenges
+TABLE 9. Track of Article Types in Various Libraries on Selected String.
+contract in blockchain helps to build trust between the par-
+ties who do not know each other. In a blockchain, Smart
+Contracts are deﬁned as a program written in programmable
+languages that run in a container. The smart contract allows
+self-execution when a speciﬁc condition is met on all nodes
+present in the blockchain network. It also helps the parties
+predict the outcomes as the contract execution depends on the
+code available on a public network, and they are veriﬁable as
+they are already signed.
+4) CLOUD DATA MANAGEMENT
+The data stored in the cloud is in a very unstructured manner.
+The data stored in the blockchain is a very structured manner.
+The data can be traced using the hash key generated for every
+block. Each block contains the previous block’s hash key, and
+it’s key to keep track of the network. The data in the block
+is validated and can be accessed by the nodes present in the
+network.
+Cloud supports elasticity and can handle the ﬂuctuations
+in computational loads when required. Using a Distributed
+ledger, this can be easily handled by managing a large number
+of events that cause a variety of smart contracts, ensuring
+service quality. Blockchain also ensures the user’s anonymity,
+and the user’s record can be safely removed from the system
+to prevent third party access to the user’s information. The
+integration of the cloud with blockchain will also ensure that
+many businesses have conﬁdence, and it would become an
+on-demand service.
+B. ANALYTICAL SU RVEY ON BLOCKCHAIN CLOUD
+Based on Blockchain’s supporting cloud computing, we can
+ﬁnd different articles. To the best of our knowledge, we have
+conducted a literature survey for the ﬁrst time on Blockchain-
+Cloud. Table 8 shows the track of articles available in
+different digital libraries along with our search string.
+Table 9 shows the track of different article types published
+in various libraries on selected literature. Below these tables,
+we have provided a bar graph depicting a year-wise analysis
+of the numbers of articles that have been published in differ-
+ent digital libraries. From all these analyses, we can conclude
+that there is exquisite research for merging blockchain with
+cloud computing.
+In ﬁgure 3, we provided you with a graph depicting the
+year-wise analysis of articles published in digital libraries.
+Blockchain provides many essential beneﬁts to cloud com-
+puting like data transparency, Authorization, and also pro-
+vide cost-effective solutions. Some of the main beneﬁts
+FIGURE 3. Year-wise analysis of articles being published in digital
+libraries.
+FIGURE 4. Benefits that Blockchain providing to cloud.
+that Blockchain is providing cloud services are depicted
+in Figure 4. As we already know that blockchain can be
+deployed in public, private, and community modes and pro-
+vide decentralization, we have provided a comparative study
+on blockchain and cloud services based on different security
+requirements. One of the signiﬁcant gaps in cloud services
+is Data Security. By this analysis, we could conclude that
+the data in the cloud would be more secure by adopting the
+Blockchain platform. In table 10, we provided this compar-
+ative analysis of Blockchain and Cloud-based on different
+security requirements.
+Many Blockchain-Cloud applications can be applied in our
+daily activities, making our data more safe and secure. Vari-
+ous industries can use the services of Blockchain-Cloud. This
+integration can provide us with more storage ﬂexibility, and
+at the same time, it keeps the validated data. Authorization
+to the network will be monitored, and also it increases the
+network resilience. In ﬁgure 5, we provided a mind map with
+different types of Blockchain Cloud Applications.
+In ﬁgure 6, we depicted the ﬂow of blockchain with cloud
+data as follows. Whenever there is a necessity to improve
+cloud data security, we can add blockchain services. The
+data that needs to be stored in the blockchain is divided
+into small chunks and then encrypted using hashing algo-
+rithms. Before adding the data to the chain, it is veriﬁed and
+205202 VOLUME 8, 2020
+CH. V. N. U. B. Murthy et al.: Blockchain Based Cloud Computing: Architecture and Research Challenges
+TABLE 10. Comparative Analysis of Blockchain and Cloud-Based on the
+Requirement.
+FIGURE 5. Mind map depiction of the different types of Blockchain Cloud
+applications.
+validated by a consensus mechanism. Based on the require-
+ment, the provider can use a Permissioned or Permissionless
+blockchain or public or private blockchain.
+C. MODEL OF INTEGRATED ARCHITECTUR E
+In ﬁgure 7, we have shown the architecture of the integration
+of cloud computing with blockchain technology. The user
+interacts with the server with the help of the application
+layer. Suppose, when a user requests a transaction through
+the application layer, the transactions’ details are stored by
+creating a block for each transaction. To add the block into
+the blockchain network, the blockchain network’s data would
+be veriﬁed by blockchain network validating nodes. The
+validation will be done based on consensus. Once the block
+is considered legitimate, all other network nodes would be
+connected to the network and data sent. All blockchain data
+FIGURE 6. Flowchart providing process of Blockchain with cloud data.
+FIGURE 7. The architecture of cloud integrated with Blockchain.
+is stored in blockchain protection cloud storage. Blockchain
+incorporation of the cloud provides data protection, trans-
+parency and also improves services.
